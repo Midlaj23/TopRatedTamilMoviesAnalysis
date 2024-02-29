@@ -1,0 +1,352 @@
+[
+  {
+    "Name": "Nayakan",
+    "Director": "Mani Ratnam",
+    "Genre": "Crime",
+    "Rating": "8.6",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BZWFmZjBiZGUtOTcxOC00MDdmLWJjNjYtMWU1NjBmNjExMmRhXkEyXkFqcGdeQXVyMTA5NjIyODcx._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Anbe Sivam",
+    "Director": "Sundar C.",
+    "Genre": "Adventure",
+    "Rating": "8.6",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BZGE0MTMzYzAtYTU1Yi00OTNjLWE1MzQtY2RhYWYzZTk5NzllXkEyXkFqcGdeQXVyMTA5NjIyODcx._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Pariyerum Perumal",
+    "Director": "Mari Selvaraj",
+    "Genre": "Drama",
+    "Rating": "8.7",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BMGYyOTdhMWEtMjdkNi00ZWJhLTkwYTUtODI0M2E4NjIzMTkyXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Soorarai Pottru",
+    "Director": "Sudha Kongara",
+    "Genre": "Action",
+    "Rating": "8.7",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BNWM5MWIwNzktNWIyNS00NDMxLTgxZmItNDBjMjM2MDc5M2M3XkEyXkFqcGdeQXVyMTI5Njg5OTQz._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Jai Bhim",
+    "Director": "T.J. Gnanavel",
+    "Genre": "Crime",
+    "Rating": "8.7",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BNzFkM2FhMzQtYjUwZi00N2Y3LWFkZWItMmZmMjQxNGQwZmNhXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "96",
+    "Director": "C. Prem Kumar",
+    "Genre": "Drama",
+    "Rating": "8.5",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BYzdkYzNmNTgtZGQ0OC00OTI3LWI4OTctYzM3MTJlMGQyMjY1XkEyXkFqcGdeQXVyOTA0NTIzNzU@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Kaithi",
+    "Director": "Lokesh Kanagaraj",
+    "Genre": "Action",
+    "Rating": "8.4",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BZTIzMTY2NGYtNzM0NS00NmFkLWFkZmUtZTcxMGEwNjhmYjg5XkEyXkFqcGdeQXVyMTU0MzI1OTY@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Thevar Magan",
+    "Director": "Bharathan",
+    "Genre": "Action",
+    "Rating": "8.7",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BN2MxZjkwZjMtZjZhZS00YjRkLWI4M2YtYjQzMmFiYmU3YzBmXkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Visaaranai",
+    "Director": "Vetrimaaran",
+    "Genre": "Crime",
+    "Rating": "8.4",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BNjI2Y2Q5ZGEtOGUzZS00NjY3LWE0N2UtZGQzNmFlZjFkYjA3XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Asuran",
+    "Director": "Vetrimaaran",
+    "Genre": "Action",
+    "Rating": "8.4",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BNjU1OTliOWYtYzg3Yi00ODVmLWIzMjctZGJmZjRhZjY5OTA2XkEyXkFqcGdeQXVyMTAwMDE4MjA3._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Sarpatta Parambarai",
+    "Director": "Pa. Ranjith",
+    "Genre": "Action",
+    "Rating": "8.5",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BZjQzMDkxNWYtOTc5ZS00NGUxLWE0MGEtMzY1Njk5NjA5MzdiXkEyXkFqcGdeQXVyMTI2ODI1Mzc0._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Thani Oruvan",
+    "Director": "Mohan Raja",
+    "Genre": "Action",
+    "Rating": "8.4",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BOTc3OWQzYjUtNmRiMi00MGUwLWI4ODEtMjU4YWRiYjBlM2Y1XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Vada Chennai",
+    "Director": "Vetrimaaran",
+    "Genre": "Action",
+    "Rating": "8.4",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BNGNhMjE2NWQtMmNlZi00OTQyLWFhZjYtYmRlNmRhYjY2YmIxXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Anniyan",
+    "Director": "S. Shankar",
+    "Genre": "Action",
+    "Rating": "8.3",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BYjA4MjEzYzAtOGIzMy00MDMxLWE1MDgtNjRhMDM0N2M1OTkzXkEyXkFqcGdeQXVyMTA5NjIyODcx._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Peranbu",
+    "Director": "Ram",
+    "Genre": "Drama",
+    "Rating": "8.7",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BZjAwMDMyOTQtNzIzNi00Y2I5LWJjMjctYTU5MTQ3YjBjYWJiXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Ratsasan",
+    "Director": "Ram Kumar",
+    "Genre": "Action",
+    "Rating": "8.3",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BODZiOTNlOTAtYTI0Mi00NWZhLTg3MDEtYTI3NzlkODY2MjA5XkEyXkFqcGdeQXVyMTI5Njg5OTQz._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Kadaisi Vivasayi",
+    "Director": "M. Manikandan",
+    "Genre": "Drama",
+    "Rating": "8.8",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BOWRmYjI2MGQtODQ5NS00NjU5LThiOWYtNDliOGVjZDNmZWVhXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Iruvar",
+    "Director": "Mani Ratnam",
+    "Genre": "Biography",
+    "Rating": "8.4",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BYmUxMjBhMWUtMjQwNS00YzYxLTlmMDAtMzk5ZWQ0ZDJmYjBiXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Super Deluxe",
+    "Director": "Thiagarajan Kumararaja",
+    "Genre": "Comedy",
+    "Rating": "8.2",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BNzhhZTE5NGQtNjkzYy00NDhjLThhNjgtYTZkMDg0YWZiMWY5XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Kannathil Muthamittal",
+    "Director": "Mani Ratnam",
+    "Genre": "Action",
+    "Rating": "8.4",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BZmEyNTgwMTEtMDUwZC00YzQ1LWE0YmQtYmI2OTc3ZWJiNGFmXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Vikram Vedha",
+    "Director": "Gayatri",
+    "Genre": "Action",
+    "Rating": "8.2",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BY2FiMTFmMzMtZDI2ZC00NDQyLWExYTUtOWNmZWM1ZDg5YjVjXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Mudhalvan",
+    "Director": "S. Shankar",
+    "Genre": "Action",
+    "Rating": "8.4",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BN2JiOGI2ODMtNGFiMy00NjZjLThmODMtZTEzZDkwNjdhZTk3XkEyXkFqcGdeQXVyODE0NjUxNzY@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Vikram",
+    "Director": "Lokesh Kanagaraj",
+    "Genre": "Action",
+    "Rating": "8.3",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BZjE2NWU2MDAtNWM4OS00YjljLWJkYTEtMTFlZDg2NGUwMDYyXkEyXkFqcGdeQXVyMTM1OTU1MzQx._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Papanasam",
+    "Director": "Jeethu Joseph",
+    "Genre": "Crime",
+    "Rating": "8.4",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BOTM4ZmU2MGQtNDI4Ni00MzNjLWI3OTMtMDA4Y2FjZmM1NTA5XkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Aruvi",
+    "Director": "Arun Prabhu Purushothaman",
+    "Genre": "Drama",
+    "Rating": "8.4",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BNjFhZWU0NmItYjkyMS00Y2VkLTkxMDctYzlhM2RiMDM2NWU3XkEyXkFqcGdeQXVyODk4ODEyMjk@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Salangai Oli",
+    "Director": "K. Viswanath",
+    "Genre": "Drama",
+    "Rating": "8.8",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BNmJhYzQ0MjUtZmM4OS00ZmI4LTgxZjctNjE4Y2MyNjc3NzM2XkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Aaranya Kaandam",
+    "Director": "Thiagarajan Kumararaja",
+    "Genre": "Action",
+    "Rating": "8.5",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BNDJiZGIyYjMtYjZkMy00NzE5LTljMDAtNjc3YmNlNjM3MDIzXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Pudhu Pettai",
+    "Director": "K. Selvaraghavan",
+    "Genre": "Action",
+    "Rating": "8.4",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BZDM2YjQzODEtNjQ0Ny00ZGRjLWE0NDgtMmI4OGM2ODc0NjEyXkEyXkFqcGdeQXVyMTA5NjIyODcx._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Mandela",
+    "Director": "Madonne Ashwin",
+    "Genre": "Comedy",
+    "Rating": "8.4",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BNzYxYmQwODktNjU5ZS00MDE2LWEzZDAtYjFkNTc1YTUzOTZmXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Michael Madana Kama Rajan",
+    "Director": "Singeetam Srinivasa Rao",
+    "Genre": "Comedy",
+    "Rating": "8.5",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BODg2NjA1M2EtOWUyMi00MGZmLTkxZmUtZDc1OWFiNTZhYzVmXkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Kuruthipunal",
+    "Director": "P.C. Sreeram",
+    "Genre": "Action",
+    "Rating": "8.5",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BMDUwNGRlOTQtYzc1ZS00YTMyLTk2MmUtNDE1NjlkMGU3YmE0XkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Mahanadhi",
+    "Director": "Santhana Bharathi",
+    "Genre": "Crime",
+    "Rating": "8.6",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BMDc1MDE5ZmItYmZjZC00OGZmLWI2MDMtNDFkMWFiODJmYjRlXkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Virumandi",
+    "Director": "Kamal Haasan",
+    "Genre": "Action",
+    "Rating": "8.4",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BYTk1NzQ3NWEtMGY0My00NDgwLWI0M2YtYjE1ZDZhOGRiOGJlXkEyXkFqcGdeQXVyMTA5NjIyODcx._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Jigarthanda",
+    "Director": "Karthik Subbaraj",
+    "Genre": "Action",
+    "Rating": "8.2",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BM2ViNmE5MGYtMTRiMS00YmU2LWIwYzItZWQzZTU5YjdhZmJjXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Soodhu Kavvum",
+    "Director": "Nalan Kumarasamy",
+    "Genre": "Comedy",
+    "Rating": "8.3",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BNzZiNGRlM2EtZWEwZC00MDg5LWEyYTctYjJkYmFjNzRiZmE1XkEyXkFqcGdeQXVyODk1MzE5NDA@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Dhuruvangal Pathinaaru",
+    "Director": "Karthick Naren",
+    "Genre": "Crime",
+    "Rating": "8.2",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BMDc0MGFiODUtYjBhNS00MDc3LWFiMjktMjJhZmI4YjYzZmNhXkEyXkFqcGdeQXVyNDc2NzU1MTA@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Kaakkaa Muttai",
+    "Director": "M. Manikandan",
+    "Genre": "Comedy",
+    "Rating": "8.3",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BM2YzNTM5NjgtZGNhMi00MjI5LWE3ZjgtOTYyODRkZWIyMGNhXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Theeran Adhigaaram Ondru",
+    "Director": "H. Vinoth",
+    "Genre": "Action",
+    "Rating": "8.2",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BZjRiMjYwNmQtYWQ1MS00MWJhLThjNDgtNDE5NWY2Nzk3NDdjXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Baasha",
+    "Director": "Suresh Krishna",
+    "Genre": "Action",
+    "Rating": "8.3",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BMjI3ZDJiZjEtYjUzOS00YzZlLWJkZjctMDU4YzNhNjJhMzI4XkEyXkFqcGdeQXVyOTA0NTIzNzU@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Pithamagan",
+    "Director": "Bala",
+    "Genre": "Action",
+    "Rating": "8.3",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BODA2YTgyMDItNzFjNi00Y2IzLTlhZTgtOGMzZjgzNDUxNzQxXkEyXkFqcGdeQXVyODE0NjUxNzY@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Moondram Pirai",
+    "Director": "Balu Mahendra",
+    "Genre": "Drama",
+    "Rating": "8.6",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BMTI3YzllZjYtYzE4ZC00MmY4LWJjZmUtNDY5NmQwNzE4MzdlXkEyXkFqcGdeQXVyMTA5NjIyODcx._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Alai Payuthey",
+    "Director": "Mani Ratnam",
+    "Genre": "Drama",
+    "Rating": "8.3",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BNTA3ZmY5YTQtZjY4NS00N2U5LTk3ODAtYTMyMGQyMTkwYTBkXkEyXkFqcGdeQXVyODE0NjUxNzY@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Thillu Mullu",
+    "Director": "K. Balachander",
+    "Genre": "Comedy",
+    "Rating": "8.5",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BM2I4MTJiOGMtNTVjMy00ODkwLThhODQtMWVhZDcwYzI2NzQ1XkEyXkFqcGdeQXVyMjQ0Njc2NTM@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Roja",
+    "Director": "Mani Ratnam",
+    "Genre": "Drama",
+    "Rating": "8.1",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BMTBlZTk1YTMtZTQ2Ni00YzhkLWJiNDEtNWI2NjE0M2I4ZmYzXkEyXkFqcGdeQXVyNjc5Mjg4Nzc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Mouna Ragam",
+    "Director": "Ambili",
+    "Genre": "Drama",
+    "Rating": "8.4",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BNGJjOGMxYTUtODU3MC00ODNiLWFmNzYtY2RiM2JhNjdlZWNjXkEyXkFqcGdeQXVyMjM5NDY4NzU@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Apoorva Sagodharargal",
+    "Director": "Singeetam Srinivasa Rao",
+    "Genre": "Action",
+    "Rating": "8.3",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BZjkxNjg0MzItZTYxOS00NmY1LWE5ODUtNjU0ZmNjOWUzYTg2XkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Indian",
+    "Director": "S. Shankar",
+    "Genre": "Action",
+    "Rating": "8.1",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BY2NiMjI0NjEtNWVjOC00ODM5LWIxZjItOWY4ZjUwMzU4ZWNhXkEyXkFqcGdeQXVyOTIzODUxMjk@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Bombay",
+    "Director": "Mani Ratnam",
+    "Genre": "Drama",
+    "Rating": "8.1",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BYTczNDcyNzctZGVjYS00NGNmLWFkYzAtNWVjNTk3NjM3MzhjXkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Viduthalai Part 1",
+    "Director": "Vetrimaaran",
+    "Genre": "Action",
+    "Rating": "8.3",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BYTljYzkzYTQtOTQzNy00NTFhLWI0YzUtNjdkYzE4M2ExNjZhXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Name": "Padayappa",
+    "Director": "K.S. Ravikumar",
+    "Genre": "Action",
+    "Rating": "8.2",
+    "Minimal": "https://m.media-amazon.com/images/M/MV5BZDRkNTlkZWYtOWIzMi00OWE3LWFkMjUtMTdlNGFiNWVlMWQzXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_FMjpg_UX1000_.jpg"
+  }
+]
